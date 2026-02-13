@@ -53,7 +53,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: himanshu797j@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 💼 LinkedIn: [https://www.linkedin.com/in/himanshu-chaudhari-465228341]
 
 ---
 
