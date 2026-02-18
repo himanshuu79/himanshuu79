@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Chaudhari</h1>
 <h3 align="center">💻 2nd Year BCA Student | Aspiring Software Developer 🚀</h3>
 
 ---
